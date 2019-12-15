@@ -1,0 +1,27 @@
+{
+  "name": "create-react-app-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeauBo/create-react-app-express.git"
+  },
+  "author": "Bo Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeauBo/create-react-app-express/issues"
+  },
+  "homepage": "https://github.com/BeauBo/create-react-app-express#readme",
+  "dependencies": {
+    "concurrently": "^5.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
